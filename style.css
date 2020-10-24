@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+  text-align: center;
+}
+
+img {display: block; margin-left: auto;
+  margin-right: auto;}
+  
+/*a {padding-right: 10px; padding-left: 10px; background-color: grey;}*/
+/*figcaption {text-align: center; font-size: 13px;}*/
+
+p {text-align: center;}
+
+<a href="index.html" class="nav-link">About</a> {background-color: grey;}
+
+a.nav-link {background-color: grey;}
