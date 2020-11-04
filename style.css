@@ -8,26 +8,28 @@ h1 {
   text-align: center;
 }
 
-#featured-property { text-align: center;
-  display: block; margin-left: auto;
-  margin-right: auto; width: 1000px;
-}
+/*#featured-property { text-align: center;*/
+/*  display: block; margin-left: auto;*/
+/*  margin-right: auto; width: 900px;*/
+/*}*/
   
-.nav-link {padding-right: 10px; padding-left: 10px; background-color: grey;}
+nav a {padding-right: 10px; padding-left: 10px; background-color: grey;}
 nav {text-align: center;}
 
 figcaption {text-align: center; font-size: 13px;}
 
 /*p {text-align: center;}*/
 
-#featured-property p {
+#featured-property p {margin: auto;
     text-align: center; width: 800px;
 }
+
+img {display: block; margin: auto;}
 
 #featured-property img {
   width: 900px;
 }
 
-/*.details {text-align: center;}*/
+#details div {float: left; text-align: center; background-color: red; width: 25%;}
 
 
