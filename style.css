@@ -8,9 +8,9 @@ h1 {
   text-align: center;
 }
 
-.center {
+#featured-property { text-align: center;
   display: block; margin-left: auto;
-  margin-right: auto; width: 900px;
+  margin-right: auto; width: 1000px;
 }
   
 .nav-link {padding-right: 10px; padding-left: 10px; background-color: grey;}
@@ -20,8 +20,12 @@ figcaption {text-align: center; font-size: 13px;}
 
 /*p {text-align: center;}*/
 
-.featured-property {
-  text-align: center; width: 800px;
+#featured-property p {
+    text-align: center; width: 800px;
+}
+
+#featured-property img {
+  width: 900px;
 }
 
 /*.details {text-align: center;}*/
