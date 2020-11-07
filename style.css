@@ -14,7 +14,7 @@ h1 {
 /*}*/
   
 nav a {padding-right: 10px; padding-left: 10px; background-color: grey;}
-nav {text-align: center;}
+nav {text-align: center; }
 
 figcaption {text-align: center; font-size: 13px;}
 
@@ -24,9 +24,9 @@ figcaption {text-align: center; font-size: 13px;}
     text-align: center; width: 800px;
 }
 
-img {display: block; margin: auto;}
+/*img {display: block; margin: auto;}*/
 
-#featured-property img {
+#featured-property img {display: block; margin: auto;
   width: 900px;
 }
 
